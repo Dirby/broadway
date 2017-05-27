@@ -25,3 +25,15 @@ h3 {
 p {
     font-size: 14px;
 }
+
+#bottom-nav {
+    text-align: left;
+    background-color: dimgray;
+    font-size: 11px;
+    color: white;
+}
+
+.nav-btn {
+    font-size: 18px;
+    color: white;
+}
